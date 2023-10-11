@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   @apply bg-gray-800 text-white font-bold
+}
+bg-nav {
+   background-color: #051823;
+}
+bg-wait {
+   background-color: #FBBF24;
+}
